@@ -1,6 +1,6 @@
 
 
-leIA
+leia
 streamlit
 spacy
 
